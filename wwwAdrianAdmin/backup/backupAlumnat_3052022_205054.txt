@@ -1,0 +1,4 @@
+idAlumne::nom::cognom::email::poblacio::contrasenya::rol::data 
+1::adrian::moscardo::adrianmq9@gmail.com::barxeta::simarro123::ROL_ALUMNAT::2022-01-03 18:27:19 
+18::prova1::prova::prova@gmail.com::Xativa::$2y$11$wOf5DjQGRuhjRtE6rFZl8.6U42wf7WDdF7.CJ7LGqnTFlcPffuG1i::ROL_ALUMNAT::2022-05-24 21:13:41 
+19::prova6::prova::prova6@gmail.com::Barxeta::$2y$11$cx25eE48BlAVUizb8PeaDePqydMqzpsfw7r9UQ3xjAG7fg8yRqZEW::ROL_ALUMNAT::2022-05-29 23:49:58 

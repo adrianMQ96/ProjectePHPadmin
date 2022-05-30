@@ -1,0 +1,171 @@
+
+#main{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 500px;
+    background-color: gainsboro;
+
+}
+
+#visitant{
+    width: 20%;
+    height: 70%;
+    border: 1px solid black;
+    text-align: center;
+    color: red;
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+
+
+#admin{
+    width: 20%;
+    height: 70%;
+    border: 1px solid black;
+    text-align: center;
+    color: red;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+#login{
+    background-color: white;
+    width: 80%;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#titol{
+    color: red;
+    text-align: center;
+    margin: 5px;
+    background-color: white;
+}
+
+#mainLogin{
+    margin-top: 40px;
+    margin-left: 30%;
+    width: 40%;
+    height: 80%;
+    background-color: lightgreen;
+}
+
+#mainRegistre{
+    margin-top: 40px;
+    margin-left: 30%;
+    width: 40%;
+    height: 80%;
+    background-color: lightgreen;
+}
+
+#imatgeRandom{
+    display: inline;
+}
+
+#footer{
+    color: red;
+    background-color: gainsboro;
+    text-align: center;
+}
+
+
+#navItem{
+    background-color: lightgray;
+    border: solid 1px;
+}
+
+#mainRegistre{
+    margin-top: 40px;
+    margin-left: 30%;
+    width: 40%;
+    height: 80%;
+    background-color: lightgreen;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 500px;
+    background-color: gainsboro;
+
+}
+
+#titol{
+    color: red;
+    text-align: center;
+    margin: 5px;
+    background-color: white;
+}
+
+#usuari{
+    width: 40%;
+    height: 70%;
+    border: 1px solid black;
+    text-align: center;
+    color: red;
+    margin: 20px auto;
+    }
+
+#titolSeccio{
+    
+    width: 40%;
+    height: 70%;
+    text-align: center;
+    color: red;
+    margin: 0 auto;
+    
+    
+}
+
+#formulariLogin{
+    padding: 5%;
+
+}
+
+.errors{
+    color: red;
+}
+
+#navMenu{
+    margin-left: 40%;
+    background-color: grey;
+    width: 22%;
+    
+}
+
+#navItem{
+    background-color: lightgray;
+    border: solid 1px;
+}
+
+table{
+    border: solid 1px;
+    border-spacing: 20px 15px;
+}
+
+.taulaCap{
+    background-color: yellow;
+}
+
+.profe{
+    background-color: grey;
+}
+
+.alum{
+    background-color: lightgreen;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
